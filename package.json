@@ -4,6 +4,7 @@
   "description": "A bare bones, from scratch React project template ripped from Andrew H. Farmer's (andrewhfarmer.com) awesome blog post/tutorial. [",
   "main": "index.js",
   "scripts": {
+    "compile" : "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
