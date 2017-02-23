@@ -1,0 +1,20 @@
+{
+  "name": "minimal_react_template",
+  "version": "1.0.0",
+  "description": "A bare bones, from scratch React project template ripped from Andrew H. Farmer's (andrewhfarmer.com) awesome blog post/tutorial. [",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KTamayo/minimal_react_template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KTamayo/minimal_react_template/issues"
+  },
+  "homepage": "https://github.com/KTamayo/minimal_react_template#readme"
+}
