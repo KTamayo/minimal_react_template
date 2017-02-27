@@ -1,1 +1,2 @@
-console.log("It worked!")
+console.log("It works!");
+document.write("It works and watches automatically(?)!");
